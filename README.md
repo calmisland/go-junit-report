@@ -12,7 +12,7 @@ Go version 1.1 or higher is required. Install or update using the `go get`
 command:
 
 ```bash
-go get -u github.com/jstemmer/go-junit-report
+go get -u github.com/calmisland/go-junit-report
 ```
 
 ## Contribution
